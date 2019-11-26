@@ -1,5 +1,5 @@
 # sudo apt-get install open-vm-tools-desktop fuse
-sudo apt-get install net-tools libc-dbg python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential ruby curl zsh lib32z1 gcc-multilib --fix-missing -y
+sudo apt-get install vim net-tools libc-dbg python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential ruby curl zsh lib32z1 gcc-multilib --fix-missing -y
 
 mkdir ~/.pip
 echo "[global]" >> ~/.pip/pip.conf
