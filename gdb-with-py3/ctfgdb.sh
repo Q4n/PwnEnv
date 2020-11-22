@@ -2,7 +2,7 @@ sudo apt install python3 git wget tar make gcc g++
 # install gdb
 wget http://ftp.gnu.org/gnu/gdb/gdb-10.1.tar.xz -O ~/gdb-10.1.tar.xz
 tar -Jxvf ~/gdb-10.1.tar.xz
-cd gdb-10.1
+cd ~/gdb-10.1
 mkdir build && cd build
 
 ../configure \

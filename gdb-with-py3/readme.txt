@@ -3,5 +3,6 @@
 ├── q4n-gefext.py # my own ext
 
 install:
+    sh ctfgdb.sh
     echo "source /path/to/q4n-gefext.py" >> ~/.gdbinit
 
