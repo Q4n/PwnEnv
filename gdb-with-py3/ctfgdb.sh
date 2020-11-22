@@ -1,4 +1,4 @@
-sudo apt install python3 git wget tar make gcc g++
+sudo apt install python3 git wget tar make gcc g++ texinfo
 # install gdb
 wget http://ftp.gnu.org/gnu/gdb/gdb-10.1.tar.xz -O ~/gdb-10.1.tar.xz
 cd ~/
